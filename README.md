@@ -1,6 +1,6 @@
 # [@theedoran/eslint-config](https://github.com/theedoran/eslint-config)
 
-> This package includes the sensible ESLint configuration used by our team.
+> This package includes a sensible ESLint configuration.
 
 It includes `TypeScript` and `prettier` configuration.
 
