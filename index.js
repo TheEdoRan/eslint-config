@@ -14,6 +14,7 @@ module.exports = {
   plugins: ["@typescript-eslint", "unused-imports", "prettier"],
   rules: {
     radix: "off",
+    "arrow-body-style": ["error", "always"],
     "consistent-return": "off",
     "no-underscore-dangle": "off",
     "max-classes-per-file": "off",
@@ -38,7 +39,7 @@ module.exports = {
       },
     ],
     "import/first": "error",
-    "import/exports-last": "error",
+    "import/exports-last": "off",
     "import/extensions": "off",
     "import/order": [
       "error",
