@@ -35,7 +35,7 @@ module.exports = {
       "error",
       {
         tabWidth: 2,
-        printWidth: 80,
+        printWidth: 120,
         singleQuote: false,
         useTabs: true,
         quoteProps: "consistent",
