@@ -1,6 +1,6 @@
 {
   "name": "@theedoran/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript + Prettier ESLint configuration",
   "main": "index.js",
   "keywords": [
