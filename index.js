@@ -13,6 +13,7 @@ module.exports = {
   },
   plugins: ["@typescript-eslint", "unused-imports", "prettier"],
   rules: {
+  	"arrow-body-style": "off",
     "no-constant-condition": "off",
     "vars-on-top": "off",
     "no-plusplus": "off",
