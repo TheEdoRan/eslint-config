@@ -30,6 +30,7 @@ module.exports = {
     "@typescript-eslint/default-param-last": "off",
     "@typescript-eslint/no-unused-vars": "warn",
     "@typescript-eslint/naming-convention": "off",
+    "@typescript-eslint/consistent-type-imports": "error",
     "prettier/prettier": [
       "error",
       {
