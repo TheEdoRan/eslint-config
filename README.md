@@ -1,4 +1,4 @@
-# Unmaintained: TS config is now included in [bootstrap](https://github.com/theedoran/bootstrap)!
+# Unmaintained: ESLint config is now included in [bootstrap](https://github.com/theedoran/bootstrap)!
 
 # [@theedoran/eslint-config](https://github.com/theedoran/eslint-config)
 
